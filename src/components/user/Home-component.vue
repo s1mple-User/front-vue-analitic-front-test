@@ -25,6 +25,17 @@ import ArchLogo from '../icons/ArchLogo.vue';
     START FREE 
       </a>
 </router-link>
+
+  <router-link to="/dashbord">
+     <a href="#" class="neon-effect bg-[#03e9f4] text-black">
+    <span></span>
+    <span></span>
+    <span></span>
+    <span></span>
+    DASHBORD 
+      </a>
+</router-link>
+
  <router-link to="/demo">
         <a href="#" class="neon-button">
     <span></span>
